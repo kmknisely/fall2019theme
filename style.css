@@ -1,0 +1,14 @@
+/*
+Theme Name: Web Interactivity & Engagement Theme
+Theme URI:
+Author: Kenney Knisely
+Description: This theme is a tutorial theme for the web interactivity and engagement course at University of Florida
+Version: 0.1
+License: Open
+Text Domain: web_interactivity_blank_template
+*/
+
+/* Header Styling */
+header{
+  background-color: black;
+}
